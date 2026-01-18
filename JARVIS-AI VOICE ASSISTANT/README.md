@@ -8,23 +8,37 @@ The assistant uses a free local AI model (Phi), making it offline-capable, priva
 ✨ Features
 
 🗣️ Voice-controlled interaction with wake word “Jarvis”
+
 🧠 AI-powered answers using locally integrated AI (Phi via Ollama)
+
 🌐 Open websites like Google, YouTube, LinkedIn
+
 🎵 Play music via predefined links
+
 📰 Fetch and read live news headlines using NewsAPI
+
 🔒 Works mostly offline (AI runs locally)
+
 ⚠️ Note: Since this project uses a free local AI model, responses may be slower than commercial assistants like Alexa, but it is fully functional and ideal for student use.
 
 🛠️ Technologies Used-
 
 Python
+
 speech_recognition
+
 gTTS
+
 pygame
+
 pyttsx3
+
 requests
+
 Ollama (Local AI runtime)
+
 Phi (Local AI model)
+
 NewsAPI (for live news)
 
 **** Example Voice Commands ****
